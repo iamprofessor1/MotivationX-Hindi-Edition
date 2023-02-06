@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Noto+Color+Emoji&display=swap');
+
+* {
+    margin: 0px;
+    min-width: 230px;
+    box-sizing: border-box;
+    background-color: #fbfbfd;
+    text-align: center;
+}
+
+h1 {
+    background-color: #6498cc;
+    /* font-family: 'Bungee Spice', cursive; */
+    font-family: 'Noto Color Emoji', cursive;
+    text-align: center;
+    color: #f1e532;
+
+}
+
+p {
+    padding: 10px;
+    font-size: 30px;
+    min-width: 120px;
+    width: 310px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #F7F7F7;
+    color: #00458B;
+    font-family: 'Noto Sans', sans-serif;
+
+}
