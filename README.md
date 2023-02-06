@@ -63,7 +63,7 @@ Firefox addon Link :- <a href="https://addons.mozilla.org/en-US/firefox/addon/mo
 - Experience the benefits of motivation in your native language
 
 ## Files Description
-You can refer to my blog for extension creation :- 
+You can refer to my blog for extension(addon) creation  https://vikaspandey.hashnode.dev/how-to-create-your-extension-add-on-for-browser-firefox-and-microsoft-edge :- 
 For the MotivationX Firefox extension, the following files would typically be included:
 
 <a href="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/blob/main/manifest.json"> manifest.json </a> : This file contains the basic information about the extension, such as its name, description, and permissions required.
