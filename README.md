@@ -17,7 +17,7 @@
     <br/>
     <br/>
    View Demo :-  <a href="https://addons.mozilla.org/en-US/firefox/addon/motivationx-hindi-edition/"><img src="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/blob/main/images/firefox-32x32.png" alt="Firefox"> </a>  <strong> | </strong>
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/motivationx-hindi-edition/"><img src="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/blob/main/images/edge-32x32.png" alt="Edge"> </a>
+    <a href="https://microsoftedge.microsoft.com/addons/detail/motivationx-hindi-editi/plflilcnebnjomonmifkegpabkhmdpoc"><img src="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/blob/main/images/edge-32x32.png" alt="Edge"> </a>
     <br>
     <a href="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/issues">Report Bug</a>
     .
@@ -44,6 +44,7 @@
 MotivationX is a browser extension that provides daily motivation and inspiration in Hindi language. The addon is designed to help users stay motivated and focused on their goals, by providing them with daily motivational quotes, inspiring stories, and helpful tips. This addon is perfect for those who are looking for a boost of motivation in their daily life and prefer to receive it in their native language.
 
 Firefox addon Link :- <a href="https://addons.mozilla.org/en-US/firefox/addon/motivationx-hindi-edition/"><img src="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/blob/main/images/firefox-32x32.png" alt="Firefox"> </a> 
+Microsoft edge addon link :-  <a href="https://microsoftedge.microsoft.com/addons/detail/motivationx-hindi-editi/plflilcnebnjomonmifkegpabkhmdpoc"><img src="https://github.com/iamprofessor1/MotivationX-Hindi-Edition/blob/main/images/edge-32x32.png" alt="Edge"> </a>
 
 ## Features
 - Daily motivational quotes and stories in Hindi language
@@ -63,7 +64,10 @@ Firefox addon Link :- <a href="https://addons.mozilla.org/en-US/firefox/addon/mo
 - Experience the benefits of motivation in your native language
 
 ## Files Description
-You can refer to my blog for extension(addon) creation  https://vikaspandey.hashnode.dev/how-to-create-your-extension-add-on-for-browser-firefox-and-microsoft-edge :- 
+
+You can refer to my blog for extension(addon) creation  
+https://imvikaspandey.medium.com/how-to-create-your-extension-add-on-for-browser-firefox-and-microsoft-edge-97a17af53fce
+https://vikaspandey.hashnode.dev/how-to-create-your-extension-add-on-for-browser-firefox-and-microsoft-edge
 
 For the MotivationX, Firefox and Edge addon (extension) , the following files would typically be included:
 
